@@ -1,0 +1,30 @@
+# Light blue / white / navy theme for the pipeline presentation deck.
+[theme]
+base = "light"
+primaryColor = "#1B3B6F"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#E3F0FA"
+codeBackgroundColor = "#E3F0FA"
+textColor = "#0B1F3A"
+linkColor = "#1B3B6F"
+borderColor = "#BFDCF2"
+showWidgetBorder = true
+showSidebarBorder = false
+baseRadius = "4px"
+buttonRadius = "4px"
+font = "'Segoe UI', 'Open Sans':https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap"
+codeFont = "'Cascadia Code', 'Fira Code':https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap"
+codeFontSize = "0.875rem"
+codeTextColor = "#0B1F3A"
+baseFontSize = 14
+baseFontWeight = 400
+headingFontSizes = ["28px", "24px", "20px", "16px", "14px", "12px"]
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+linkUnderline = false
+chartCategoricalColors = ["#1B3B6F", "#4A90D9", "#8FC1E8", "#0B1F3A", "#2E6FB3", "#BFDCF2", "#5B7FA6"]
+
+blueColor = "#1B3B6F"
+grayColor = "#5B7FA6"
+
+dataframeBorderColor = "#BFDCF2"
+dataframeHeaderBackgroundColor = "#E3F0FA"
